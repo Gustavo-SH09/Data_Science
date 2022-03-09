@@ -13,7 +13,7 @@ Estudo Data Science no foco empresarial e áreas da saúde. Tenho conhecimento n
 **Atributos da area:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-Links de redes
+Linkedin: https://www.linkedin.com/in/gustavo-scheid-hartmann-90934a165/
 
 
 ## Projetos:
