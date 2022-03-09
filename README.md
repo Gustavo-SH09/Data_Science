@@ -20,3 +20,5 @@ Linkedin: https://www.linkedin.com/in/gustavo-scheid-hartmann-90934a165/
 Estes são alguns projetos aos quais realizei:
 
 * Nome: Link
+Análise de Dados do Airbnb - Veneza(Itália):https://bityli.com/waAQl
+Panorama do COVID-19  Mundo & Brasil:https://bityli.com/MbFqA
